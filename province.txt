@@ -1,4 +1,4 @@
-Islands	Province	Province_Code_ISO[3]	Capital	Inaugurated_date	Population	Total_area	Regional_Budget_2020	Gross_Regional_Domestic_Product_2020	Human_Development_Index_2020
+Islands	Province	Province_Code_ISO[3]	Capital	Inaugurated_date	Population	Total_area	Regional_Budget_2020	GRDP_2020	HDI_2020
 Sumatra	Aceh	AC	Banda Aceh	07-Dec-59	5371532	57956	17279,52	164,21	71,99
 Java	Jakarta	JK	Jakarta	28-Aug-61	10012271	664,01	79285,13	1761,41	78,39
 Java	Yogyakarta	YO	Yogyakarta	04-Mar-50	3553100	3133,15	3662,33	93,45	76,81
